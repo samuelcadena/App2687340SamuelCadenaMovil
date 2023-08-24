@@ -1,4 +1,4 @@
-package co.sena.edu.app2687340samuel
+cdpackage co.sena.edu.app2687340samuel
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
