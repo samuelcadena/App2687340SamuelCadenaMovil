@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "17608897997",
+    "project_id": "desarrollomovilnativo2",
+    "storage_bucket": "desarrollomovilnativo2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17608897997:android:0d970f3b716186c41a8084",
+        "android_client_info": {
+          "package_name": "co.App2687340Samuel.edu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17608897997-11jigdrd9hs47sggii848d9mti8ajhtb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABCyEpTWjwn5rlIwK7oMu_1meRS1AJhDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17608897997-11jigdrd9hs47sggii848d9mti8ajhtb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
